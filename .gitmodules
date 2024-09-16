@@ -1,3 +1,6 @@
 [submodule "shared"]
 	path = shared
 	url = https://github.com/irumaru/cs-magiconion-shared.git
+[submodule "HelloRun/cs-magiconion-shared"]
+	path = HelloRun/cs-magiconion-shared
+	url = https://github.com/irumaru/cs-magiconion-shared.git
